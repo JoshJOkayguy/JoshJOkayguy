@@ -9,3 +9,7 @@ Discord: JoshJOkayguy#2357
 Email: brsimoneau21@gmail.com
 
 
+## Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshJOkayguy&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshJOkayguy)](https://github.com/anuraghazra/github-readme-stats)
