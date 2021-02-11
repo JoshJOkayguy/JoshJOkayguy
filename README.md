@@ -5,8 +5,8 @@ I'm Josh, I live on the east coast of the USA, and I began learning lua in early
 Feel free to take a look at any of my repos and comment on them.
 
 ### How to reach me:
-Discord: JoshJOkayguy#2357
-Email: brsimoneau21@gmail.com
+- Discord: JoshJOkayguy#2357
+- Email: brsimoneau21@gmail.com
 
 
 ## Stats
