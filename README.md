@@ -2,7 +2,7 @@
 
 I'm Josh, I live on the east coast of the USA, and I began learning lua in early January, 2021. I really enjoy programming, it's something that I find fascinating, much like learning a new language. Always looking for new things to do!
 
-Feel free to take a look at any of my repos and comment on them.
+Feel free to take a look at any of my repos and comment on them, make a PR, or test my code.
 
 ### How to reach me:
 - Discord: JoshJOkayguy#2357
