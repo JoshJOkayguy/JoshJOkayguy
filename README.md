@@ -8,6 +8,9 @@ Feel free to take a look at any of my repos and comment on them, make a PR, or t
 - Discord: JoshJOkayguy#2357
 - Email: brsimoneau21@gmail.com
 
+### My skills
+- Garry's Mod integrations of sqlite
+- gLua (Garry's Mod Lua)
 
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshJOkayguy&show_icons=true&theme=dracula)
