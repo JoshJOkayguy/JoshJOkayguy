@@ -9,7 +9,6 @@ Feel free to take a look at any of my repos and comment on them, make a PR, or t
 - Email: brsimoneau21@gmail.com
 
 ### My skills
-- Garry's Mod integrations of SQLite
 - gLua (Garry's Mod Lua)
 
 ### Learning
