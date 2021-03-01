@@ -12,7 +12,7 @@ Feel free to take a look at any of my repos and comment on them, make a PR, or t
 - gLua (Garry's Mod Lua)
 
 ### Learning
-- PHP
+- C#
 - JavaScript
 - CSS
 - HTML
