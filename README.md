@@ -10,12 +10,13 @@ Feel free to take a look at any of my repos and comment on them, make a PR, or t
 
 ### My skills
 - gLua (Garry's Mod Lua)
-
-### Learning
-- C#
 - JavaScript
 - CSS
 - HTML
+
+### Learning
+- PHP
+
 
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshJOkayguy&show_icons=true&theme=dracula)
