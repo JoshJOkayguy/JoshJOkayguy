@@ -13,9 +13,10 @@ Feel free to take a look at any of my repos and comment on them, make a PR, or t
 - JavaScript
 - CSS
 - HTML
+- PHP
 
 ### Learning
-- PHP
+- Rust
 
 
 ## Stats
