@@ -17,6 +17,7 @@ Feel free to take a look at any of my repos and comment on them, make a PR, or t
 
 ### Learning
 - Rust
+- Java
 
 
 ## Stats
