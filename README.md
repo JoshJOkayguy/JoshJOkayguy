@@ -6,7 +6,7 @@ Feel free to take a look at any of my repos and comment on them, make a PR, or t
 
 ### How to reach me:
 - Discord: JoshJOkayguy#2357
-- Email: brsimoneau21@gmail.com
+- Email: joshjokayguy@dynamicdevs.net
 
 ### My skills
 - gLua (Garry's Mod Lua)
