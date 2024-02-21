@@ -6,18 +6,14 @@ Feel free to take a look at any of my repos and comment on them, make a PR, or t
 
 ### How to reach me:
 - Discord: JoshJOkayguy#2357
-- Email: joshjokayguy@dynamicdevs.net
 
 ### My skills
-- gLua (Garry's Mod Lua)
+- .NET
 - JavaScript
 - CSS
 - HTML
 - PHP
-
-### Learning
-- Rust
-- Java
+- Lua
 
 
 ## Stats
