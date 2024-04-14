@@ -4,4 +4,6 @@ I'm Brayden, I live on the east coast of the USA, and I began learning lua in ea
 
 
 ## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joshjokayguy&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joshjokayguy&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joshjokayguy&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joshjokayguy&theme=tokyonight&utcOffset=5)
