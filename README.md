@@ -5,4 +5,4 @@ I'm Brayden, I live on the east coast of the USA, and I began learning lua in ea
 
 ## Stats
 
-[![Anurag's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joshjokayguy&theme=2077)]
+![Anurag's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joshjokayguy&theme=2077)
