@@ -1,6 +1,6 @@
 # JoshJOkayguy
 
-CompSci Student @ URI, working on [NuAuth](https://nuauth.xyz)
+CompSci Student @ URI, working on a DRM solution for the everyday developer.
 
 
 ## Stats
