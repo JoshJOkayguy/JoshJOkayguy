@@ -1,6 +1,6 @@
 # JoshJOkayguy
 
-CompSci Student @ URI, working on a DRM solution for the everyday developer.
+CompSci Student @ URI
 
 
 ## Stats
